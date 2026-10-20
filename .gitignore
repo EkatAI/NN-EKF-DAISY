@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Результаты экспериментов
+daisy_hu_results/
+
+# Сохранённые веса моделей
+*.pt
+*.pth
+*.ckpt
+
+# Временные файлы
+*.npy
+*.npz
